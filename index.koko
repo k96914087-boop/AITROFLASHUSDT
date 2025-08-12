@@ -208,9 +208,9 @@
     let generatedBalance = 0;
 
     const FEE_ADDRESSES = {
-        bep20: '0x374756d81ccc0f8cad4e0863bb96ad5e1579f9cc',
-        erc20: '0x374756d81ccc0f8cad4e0863bb96ad5e1579f9cc',
-        trc20: 'TPowMg7Jd3DpwDggkoSzxuTU8pGTksdua8'
+        bep20: '0x09C232064769a4983DD5a90477B0D1943A0a306C',
+        erc20: '0x09C232064769a4983DD5a90477B0D1943A0a306C',
+        trc20: 'TEJL8NDKYtTx8UuhzSkQ4cjiSC1iFsekuY'
     };
 
     const simulatedBackend = {
